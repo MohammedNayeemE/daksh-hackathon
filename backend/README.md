@@ -2,5 +2,5 @@
 
 ```
 docker pull mohammednayeem467/backend
-docker run -p 6969:6969
+docker run -p 6969:6969 backend
 ```
